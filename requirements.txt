@@ -1,0 +1,27 @@
+# --- CORE ML STACK ---
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# --- MODEL CONVERSION ---
+tf2onnx==1.16.1
+onnx==1.17.0
+onnxruntime==1.23.2
+
+
+# --- UI / VISUALIZATION ---
+streamlit==1.40.2
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# --- APK ANALYSIS ---
+androguard==4.1.2
+lxml==5.2.1
+
+# --- SYSTEM / UTILS ---
+protobuf==3.20.3
+requests==2.32.3
+tqdm==4.66.4
